@@ -1,0 +1,1 @@
+A few years ago, I decided to get serious about programming, so I worked through the first two thirds or so of HtDP independently. I didn't originally intend to publish these, and I had no one to guide me through it, so I'm sure there are some abominations in there. Hope they can be of some use to someone.
